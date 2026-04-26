@@ -1,3 +1,3 @@
-# Midstall Software
+# Midstall
 
-Welcome to the GitHub for Midstall Software. We host many of our projects, tools, and source code here.
+Welcome to the GitHub for Midstall. We host many of our projects, tools, and source code here.
